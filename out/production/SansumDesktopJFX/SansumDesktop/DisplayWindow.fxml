@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="SansumDesktop.DisplayWindow">
+   <children>
+      <ImageView fitHeight="210.0" fitWidth="270.0" layoutX="-32.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@resources/Logo.png" />
+         </image>
+      </ImageView>
+      <Label id="timeLabel" fx:id="timeLabel" alignment="CENTER" layoutX="182.0" layoutY="89.0" prefHeight="142.0" prefWidth="237.0" text="0">
+         <font>
+            <Font size="150.0" />
+         </font>
+      </Label>
+      <Label layoutX="276.0" layoutY="273.0" text="minutes" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#5aae66" height="37.0" layoutY="385.0" stroke="BLACK" strokeType="INSIDE" width="600.0" />
+      <Label fx:id="messageLabel" alignment="CENTER" layoutX="9.0" layoutY="395.0" prefHeight="17.0" prefWidth="583.0" text="Label" />
+   </children>
+</AnchorPane>
