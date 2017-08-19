@@ -15,23 +15,23 @@
 
 <AnchorPane prefHeight="536.0" prefWidth="350.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="SansumDesktop.UpdateWindow">
 
-        <children>
-            <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="75.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
-                <image>
-                    <Image url="@resources/Logo.png" />
-                </image>
-            </ImageView>
-            <Label layoutX="93.0" layoutY="105.0" text="Urgent Care Time Updates" />
-            <Label layoutX="61.0" layoutY="142.0" text="New Time:" />
-            <TextField id="timeTextField" fx:id="timeTextField" layoutX="132.0" layoutY="137.0" />
-            <Button id="updateButton" layoutX="132.0" layoutY="187.0" mnemonicParsing="false" onAction="#updateTime" prefHeight="27.0" prefWidth="87.0" text="Update" />
-            <Separator layoutY="229.0" prefHeight="5.0" prefWidth="350.0" />
-            <Label id="currentTimeLabel" fx:id="currentTimeLabel" alignment="CENTER" layoutX="76.0" layoutY="249.0" prefWidth="200.0" text="Current Time:" />
-            <Button id="refreshButton" layoutX="142.0" layoutY="279.0" mnemonicParsing="false" onAction="#refreshTime" text="Refresh" />
-            <Separator layoutY="325.0" prefHeight="5.0" prefWidth="350.0" />
-            <TextArea fx:id="messagesField" layoutX="21.0" layoutY="376.0" prefHeight="103.0" prefWidth="308.0" />
-            <Label layoutX="98.0" layoutY="344.0" text="Display Board Messages:" />
-      <Button layoutX="152.0" layoutY="495.0" mnemonicParsing="false" onAction="#updateMessages" text="Save" />
-        </children>
+    <children>
+        <ImageView fitHeight="103.0" fitWidth="200.0" layoutX="93.0" layoutY="6.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@resources/Logo.png" />
+            </image>
+        </ImageView>
+        <Label layoutX="93.0" layoutY="109.0" text="Urgent Care Time Updates" />
+        <Label layoutX="61.0" layoutY="142.0" text="New Time:" />
+        <TextField id="timeTextField" fx:id="timeTextField" layoutX="132.0" layoutY="137.0" />
+        <Button id="updateButton" layoutX="132.0" layoutY="187.0" mnemonicParsing="false" onAction="#updateTime" prefHeight="27.0" prefWidth="87.0" text="Update" />
+        <Separator layoutY="229.0" prefHeight="5.0" prefWidth="350.0" />
+        <Label id="currentTimeLabel" fx:id="currentTimeLabel" alignment="CENTER" layoutX="76.0" layoutY="249.0" prefWidth="200.0" text="Current Time:" />
+        <Button id="refreshButton" layoutX="142.0" layoutY="279.0" mnemonicParsing="false" onAction="#refreshTime" text="Refresh" />
+        <Separator layoutY="325.0" prefHeight="5.0" prefWidth="350.0" />
+        <TextArea fx:id="messagesField" layoutX="21.0" layoutY="376.0" prefHeight="103.0" prefWidth="308.0" />
+        <Label layoutX="98.0" layoutY="344.0" text="Display Board Messages:" />
+        <Button layoutX="152.0" layoutY="495.0" mnemonicParsing="false" onAction="#updateMessages" text="Save" />
+    </children>
 
 </AnchorPane>

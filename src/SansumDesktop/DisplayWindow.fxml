@@ -1,28 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.paint.*?>
 <?import javafx.scene.shape.*?>
 <?import javafx.scene.text.*?>
-<?import javafx.scene.image.*?>
 <?import java.lang.*?>
-<?import java.util.*?>
-<?import javafx.scene.*?>
 <?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
 <?import javafx.scene.layout.*?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
 
-<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="SansumDesktop.DisplayWindow">
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1177.0" prefWidth="1360.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="SansumDesktop.DisplayWindow">
    <children>
-      <ImageView fitHeight="210.0" fitWidth="270.0" layoutX="-32.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fitHeight="447.0" fitWidth="600.0" pickOnBounds="true" preserveRatio="true" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0">
          <image>
             <Image url="@resources/Logo.png" />
          </image>
       </ImageView>
-      <Label id="timeLabel" fx:id="timeLabel" alignment="CENTER" layoutX="182.0" layoutY="89.0" prefHeight="142.0" prefWidth="237.0" text="0">
+      <Label fx:id="timeLabel" alignment="CENTER" layoutY="395.0" prefHeight="247.0" prefWidth="853.0" text="0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="395.0">
          <font>
-            <Font size="150.0" />
+            <Font size="400.0" />
          </font>
       </Label>
-      <Label layoutX="276.0" layoutY="273.0" text="minutes" />
-      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#5aae66" height="37.0" layoutY="385.0" stroke="BLACK" strokeType="INSIDE" width="600.0" />
-      <Label fx:id="messageLabel" alignment="CENTER" layoutX="9.0" layoutY="395.0" prefHeight="17.0" prefWidth="583.0" text="Label" />
+      <Label alignment="CENTER" layoutY="856.0" prefHeight="17.0" prefWidth="853.0" text="minutes" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="856.0">
+         <font>
+            <Font size="26.0" />
+         </font>
+      </Label>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#6ec171" height="64.0" layoutY="578.0" stroke="BLACK" strokeType="INSIDE" width="5000.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" />
+      <Label fx:id="messageLabel" alignment="CENTER" layoutX="10.0" layoutY="469.0" prefHeight="55.0" prefWidth="853.0" text="Label" textAlignment="CENTER" AnchorPane.bottomAnchor="5.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" layoutX="18.0" layoutY="254.0" prefHeight="97.0" prefWidth="1360.0" text="Current Urgent Care Wait Time:" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="254.0">
+         <font>
+            <Font name="System Italic" size="65.0" />
+         </font>
+      </Label>
    </children>
 </AnchorPane>

@@ -47,7 +47,7 @@ public class Context {
     }
 
     public void updateMessages(String m){
-        if(m.contains(",")) {
+        if(m.contains("\n")) {
             messageNumber = 0;
             messages = m.split("\n");
         }

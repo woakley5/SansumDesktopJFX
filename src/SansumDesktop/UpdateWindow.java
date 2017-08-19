@@ -97,6 +97,12 @@ public class UpdateWindow {
 
     public void updateMessages(ActionEvent e){
         Context.getInstance().updateMessages(messagesField.getText());
+        String messages = "";
+        for(int x = 0; x < Context.getInstance().getMessagesLength(); x++){
+            messages += Context.getInstance().getMessageAtIndex(x);
+            messages += "\n";
+        }
+        showAlert("Save Successful", "The following messages will display on the wait board:", messages, Alert.AlertType.INFORMATION);
     }
 
 }
