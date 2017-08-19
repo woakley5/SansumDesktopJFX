@@ -25,12 +25,12 @@
             <Image url="@resources/Logo.png" />
          </image>
       </ImageView>
-      <Label fx:id="timeLabel" alignment="CENTER" layoutY="395.0" prefHeight="247.0" prefWidth="853.0" text="0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="395.0">
+      <Label fx:id="timeLabel" alignment="CENTER" layoutY="424.0" prefHeight="247.0" prefWidth="853.0" text="0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="424.0">
          <font>
             <Font size="400.0" />
          </font>
       </Label>
-      <Label alignment="CENTER" layoutY="856.0" prefHeight="17.0" prefWidth="853.0" text="minutes" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="856.0">
+      <Label alignment="CENTER" layoutY="885.0" prefHeight="17.0" prefWidth="853.0" text="minutes" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="885.0">
          <font>
             <Font size="26.0" />
          </font>
@@ -41,7 +41,7 @@
             <Font size="28.0" />
          </font>
       </Label>
-      <Label alignment="CENTER" layoutX="18.0" layoutY="254.0" prefHeight="97.0" prefWidth="1360.0" text="Current Urgent Care Wait Time:" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="254.0">
+      <Label alignment="CENTER" layoutY="327.0" prefHeight="97.0" prefWidth="1360.0" text="Current Urgent Care Wait Time:" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="327.0">
          <font>
             <Font name="System Italic" size="65.0" />
          </font>

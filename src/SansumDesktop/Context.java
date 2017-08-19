@@ -4,9 +4,12 @@ package SansumDesktop;/*
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.prefs.Preferences;
 
 public class Context {
     private final static Context instance = new Context();
+    private final static Preferences prefs = Preferences.userNodeForPackage(Main.class);
+
 
     public static Context getInstance() {
         return instance;
@@ -47,6 +50,8 @@ public class Context {
     }
 
     public void updateMessages(String m){
+        prefs.put("MESSAGES_STRING", m);
+
         if(m.contains("\n")) {
             messageNumber = 0;
             messages = m.split("\n");
@@ -61,7 +66,6 @@ public class Context {
             System.out.println(messages[x]);
         }
         System.out.println(messageNumber);
-
     }
 
 }

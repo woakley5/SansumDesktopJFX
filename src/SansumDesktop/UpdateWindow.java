@@ -5,30 +5,32 @@ import com.backendless.async.callback.AsyncCallback;
 import com.backendless.exceptions.BackendlessFault;
 import javafx.application.Platform;
 import javafx.event.ActionEvent;
-import javafx.fxml.FXMLLoader;
-import javafx.scene.Parent;
-import javafx.scene.Scene;
 import javafx.scene.control.Alert;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
-import javafx.scene.layout.Pane;
-import javafx.stage.Stage;
 
-import javax.swing.*;
-import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.prefs.Preferences;
 
 public class UpdateWindow {
 
     public Label currentTimeLabel;
     public TextField timeTextField;
     public TextArea messagesField;
+    private final static Preferences prefs = Preferences.userNodeForPackage(Main.class);
+
 
     public UpdateWindow(){
         setTimeLabelText("Current Time: -");
         refreshTime(null);
+        Platform.runLater(
+                () -> {
+                    messagesField.setText(prefs.get("MESSAGES_STRING", ""));
+                    updateMessages(null);
+                }
+        );
     }
 
     public void updateTime(ActionEvent actionEvent) {
@@ -102,7 +104,9 @@ public class UpdateWindow {
             messages += Context.getInstance().getMessageAtIndex(x);
             messages += "\n";
         }
-        showAlert("Save Successful", "The following messages will display on the wait board:", messages, Alert.AlertType.INFORMATION);
+        if(!messages.equals("")){
+            showAlert("Message Display", "The following messages will display on the wait board:", messages, Alert.AlertType.INFORMATION);
+        }
     }
 
 }

@@ -2,20 +2,14 @@ package SansumDesktop;/*
  * Created by woakley on 8/7/17.
  */
 
-import com.backendless.Backendless;
-import com.backendless.async.callback.AsyncCallback;
-import com.backendless.exceptions.BackendlessFault;
 import javafx.animation.FadeTransition;
-import javafx.animation.Timeline;
 import javafx.animation.TranslateTransition;
 import javafx.application.Platform;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
-import javafx.scene.control.Alert;
 import javafx.scene.control.Label;
 import javafx.util.Duration;
 
-import java.util.Map;
 import java.util.Timer;
 import java.util.TimerTask;
 
@@ -42,6 +36,12 @@ public class DisplayWindow {
            }
        };
        messageTimer.schedule(messageTask, 1000, 10000);
+
+       Platform.runLater(
+               () -> {
+                   messageLabel.setText("");
+               }
+       );
     }
 
     public void updateTime() {
