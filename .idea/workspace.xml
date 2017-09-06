@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SansumDesktop/resources/logo2.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/Context.class" afterPath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/Context.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/DisplayWindow$1.class" afterPath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/DisplayWindow$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/DisplayWindow$2.class" afterPath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/DisplayWindow$2.class" />
@@ -19,15 +18,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/UpdateWindow$2.class" afterPath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/UpdateWindow$2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/UpdateWindow.class" afterPath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/UpdateWindow.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SansumDesktopJFX.iml" afterPath="$PROJECT_DIR$/SansumDesktopJFX.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/DisplayWindow.fxml" afterPath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/DisplayWindow.fxml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/UpdateWindow.fxml" afterPath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/UpdateWindow.fxml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SansumDesktop/Context.java" afterPath="$PROJECT_DIR$/src/SansumDesktop/Context.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.fxml" afterPath="$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.fxml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.java" afterPath="$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SansumDesktop/Main.java" afterPath="$PROJECT_DIR$/src/SansumDesktop/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml" afterPath="$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.java" afterPath="$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.java" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -843,12 +835,20 @@
       <workItem from="1503532488888" duration="1505000" />
       <workItem from="1504412691519" duration="1126000" />
       <workItem from="1504415872903" duration="80000" />
-      <workItem from="1504671944300" duration="4638000" />
+      <workItem from="1504671944300" duration="4668000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated with backendless 4.0">
+      <created>1504677120458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1504677120458</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39366000" />
+    <option name="totallyTimeSpent" value="39396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="23" width="1280" height="1417" extended-state="0" />
@@ -900,6 +900,8 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <MESSAGE value="Updated with backendless 4.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated with backendless 4.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

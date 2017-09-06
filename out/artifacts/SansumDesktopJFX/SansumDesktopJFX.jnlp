@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="SansumDesktopJFX.jnlp">
+  <information>
+    <title>Sansum Desktop</title>
+    <vendor>Unknown</vendor>
+    <description>SansumDesktopJFX</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="SansumDesktopJFX.jar" size="405831" download="eager" />
+    <jar href="backendless-4.0.3.jar" size="988944" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="SansumDesktop.Main"  name="SansumDesktopJFX" />
+  <update check="background"/>
+</jnlp>
