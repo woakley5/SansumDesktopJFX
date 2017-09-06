@@ -62,10 +62,6 @@ public class Context {
             messages = a;
         }
 
-        for(int x = 0; x < messages.length; x++){
-            System.out.println(messages[x]);
-        }
-        System.out.println(messageNumber);
     }
 
 }

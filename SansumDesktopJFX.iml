@@ -7,6 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="com.backendless:backendless:3.0.24" level="application" />
+    <orderEntry type="library" name="com.backendless:backendless:4.0.3" level="application" />
   </component>
 </module>

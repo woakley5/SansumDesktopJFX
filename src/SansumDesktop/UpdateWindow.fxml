@@ -13,7 +13,7 @@
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
 
-<AnchorPane prefHeight="536.0" prefWidth="350.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="SansumDesktop.UpdateWindow">
+<AnchorPane prefHeight="562.0" prefWidth="350.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="SansumDesktop.UpdateWindow">
 
     <children>
         <ImageView fitHeight="103.0" fitWidth="200.0" layoutX="93.0" layoutY="6.0" pickOnBounds="true" preserveRatio="true">
@@ -32,6 +32,8 @@
         <TextArea fx:id="messagesField" layoutX="21.0" layoutY="376.0" prefHeight="103.0" prefWidth="308.0" />
         <Label layoutX="98.0" layoutY="344.0" text="Display Board Messages:" />
         <Button layoutX="152.0" layoutY="495.0" mnemonicParsing="false" onAction="#updateMessages" text="Save" />
+      <Separator layoutY="535.0" prefHeight="5.0" prefWidth="350.0" />
+      <Label layoutX="141.0" layoutY="540.0" text="Version 1.2" textFill="#000000b8" />
     </children>
 
 </AnchorPane>

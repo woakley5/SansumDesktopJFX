@@ -35,25 +35,29 @@ public class UpdateWindow {
 
     public void updateTime(ActionEvent actionEvent) {
         HashMap dataPoint = new HashMap();
-        dataPoint.put( "Time", timeTextField.getText());
-        Context.getInstance().setTime(timeTextField.getText());
+        try {
+            dataPoint.put("Time", Integer.parseInt(timeTextField.getText()));
+            Context.getInstance().setTime(timeTextField.getText());
 
-        Backendless.Persistence.of( "Times" ).save( dataPoint, new AsyncCallback<Map>() {
-            public void handleResponse( Map response )
-            {
-                showAlert("Database Update", "Success!", "The wait time has successfully been updated to " + timeTextField.getText(), Alert.AlertType.INFORMATION);
-                System.out.println("Success!");
-                timeTextField.setText("");
-                refreshTime(null);
-            }
+            Backendless.Persistence.of("Times").save(dataPoint, new AsyncCallback<Map>() {
+                public void handleResponse(Map response) {
+                    showAlert("Database Update", "Success!", "The wait time has successfully been updated to " + timeTextField.getText(), Alert.AlertType.INFORMATION);
+                    System.out.println("Update was successful");
+                    timeTextField.setText("");
+                    refreshTime(null);
+                }
 
-            public void handleFault( BackendlessFault fault )
-            {
-                showAlert("Database Error", "Error Updating Time", "There was a problem updating the time in the database. Please relaunch and try again.", Alert.AlertType.ERROR);
+                public void handleFault(BackendlessFault fault) {
+                    showAlert("Database Error", "Error Updating Time", "There was a problem updating the time in the database. Please relaunch and try again.", Alert.AlertType.ERROR);
 
-                System.out.println(fault);
-            }
-        });
+                    System.out.println("Error: " + fault);
+                }
+            });
+        }
+        catch(Exception e){
+            showAlert("Invalid Input", timeTextField.getText() + " is not a valid number.", "Please input a valid integer.", Alert.AlertType.ERROR);
+            timeTextField.setText("");
+        }
     }
 
     public void refreshTime(ActionEvent actionEvent){
@@ -71,7 +75,7 @@ public class UpdateWindow {
             {
                 setTimeLabelText("Error");
                 showAlert("Database Error", "Error Refreshing Time", "There was a problem fetching the time from the database. Please relaunch and try again.", Alert.AlertType.ERROR);
-                System.out.print(fault);
+                System.out.print("Error: " + fault);
             }
         });
 

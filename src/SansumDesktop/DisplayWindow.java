@@ -8,6 +8,12 @@ import javafx.application.Platform;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.scene.control.Label;
+import javafx.scene.image.ImageView;
+import javafx.scene.paint.Color;
+import javafx.scene.paint.CycleMethod;
+import javafx.scene.paint.LinearGradient;
+import javafx.scene.paint.Stop;
+import javafx.scene.shape.Rectangle;
 import javafx.util.Duration;
 
 import java.util.Timer;
@@ -17,8 +23,9 @@ public class DisplayWindow {
 
     public Label timeLabel;
     public Label messageLabel;
+    public ImageView background;
 
-   public DisplayWindow(){
+    public DisplayWindow(){
        Timer updateTimer = new Timer();
        TimerTask updateTask = new TimerTask() {
            @Override
@@ -35,9 +42,9 @@ public class DisplayWindow {
                updateMessage();
            }
        };
-       messageTimer.schedule(messageTask, 1000, 10000);
+       messageTimer.schedule(messageTask, 1000, 15000);
 
-       Platform.runLater(
+        Platform.runLater(
                () -> {
                    messageLabel.setText("");
                }
@@ -76,17 +83,16 @@ public class DisplayWindow {
         Platform.runLater(
                 () -> {
                     if(Context.getInstance().getMessageNumber() < Context.getInstance().getMessagesLength()){
-                        TranslateTransition moveOut = new TranslateTransition(Duration.millis(1000), messageLabel);
-                        moveOut.setToY(50);
+                        TranslateTransition moveOut = new TranslateTransition(Duration.millis(1500), messageLabel);
+                        moveOut.setToY(150);
                         moveOut.play();
                         moveOut.setOnFinished(new EventHandler<ActionEvent>() {
 
                             @Override
                             public void handle(ActionEvent event) {
-                                System.out.println(Context.getInstance().getMessageNumber());
                                 messageLabel.setText(Context.getInstance().getMessageAtIndex(Context.getInstance().getMessageNumber()));
                                 Context.getInstance().increaseMessageNumber();
-                                TranslateTransition moveIn = new TranslateTransition(Duration.millis(1000), messageLabel);
+                                TranslateTransition moveIn = new TranslateTransition(Duration.millis(1500), messageLabel);
                                 moveIn.setToY(0);
                                 moveIn.play();
                             }
