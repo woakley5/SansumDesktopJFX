@@ -7,172 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/SansumDesktopJFX.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/SansumDesktopJFX.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/SansumDesktopJFX.jnlp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/backendless-4.0.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/Java/SansumDesktopJFX.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/Java/SansumDesktopJFX.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/Java/backendless-4.0.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/MacOS/SansumDesktopJFX" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/MacOS/libpackager.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PkgInfo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/COPYRIGHT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/README.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/THIRDPARTYLICENSEREADME-JAVAFX.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/THIRDPARTYLICENSEREADME.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/COPYRIGHT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/THIRDPARTYLICENSEREADME-JAVAFX.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/THIRDPARTYLICENSEREADME.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/Welcome.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/calendars.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/charsets.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/classlist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/cmm/CIEXYZ.pf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/cmm/GRAY.pf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/cmm/LINEAR_RGB.pf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/cmm/PYCC.pf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/cmm/sRGB.pf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/content-types.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/currency.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/deploy.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/ext/cldrdata.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/ext/dnsns.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/ext/jaccess.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/ext/jfxrt.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/ext/localedata.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/ext/meta-index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/ext/nashorn.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/ext/sunec.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/ext/sunjce_provider.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/ext/sunpkcs11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/ext/zipfs.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/flavormap.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/fontconfig.bfc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/fontconfig.properties.src" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/fonts/LucidaBrightDemiBold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/fonts/LucidaBrightDemiItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/fonts/LucidaBrightItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/fonts/LucidaBrightRegular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/fonts/LucidaSansDemiBold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/fonts/LucidaSansRegular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/fonts/LucidaTypewriterBold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/fonts/LucidaTypewriterRegular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/fonts/fonts.dir" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/hijrah-config-umalqura.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/images/cursors/cursors.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/images/cursors/invalid32x32.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/images/cursors/motif_CopyDrop32x32.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/images/cursors/motif_CopyNoDrop32x32.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/images/cursors/motif_LinkDrop32x32.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/images/cursors/motif_LinkNoDrop32x32.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/images/cursors/motif_MoveDrop32x32.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/images/cursors/motif_MoveNoDrop32x32.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/javafx.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/javaws.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/jce.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/jfr/default.jfc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/jfr/profile.jfc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/jfxswt.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/jli/libjli.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/jspawnhelper" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/jsse.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/jvm.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/jvm.hprof.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libAppleScriptEngine.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libattach.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libawt.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libawt_lwawt.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libbci.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libdcpr.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libdecora_sse.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libdeploy.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libdt_socket.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libfontmanager.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libfxplugins.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libglass.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libglib-lite.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libgstreamer-lite.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libhprof.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libinstrument.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libj2gss.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libj2pcsc.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libj2pkcs11.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libjaas_unix.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libjava.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libjava_crw_demo.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libjavafx_font.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libjavafx_font_t2k.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libjavafx_iio.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libjawt.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libjdwp.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libjfr.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libjfxmedia.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libjfxmedia_avf.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libjfxmedia_qtkit.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libjfxwebkit.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libjpeg.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libjsdt.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libjsig.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libjsound.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libkcms.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/liblcms.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libmanagement.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libmlib_image.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libnet.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libnio.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libnpt.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libosx.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libosxapp.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libosxkrb5.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libosxui.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libprism_common.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libprism_es2.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libprism_sw.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libresource.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libsaproc.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libsplashscreen.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libsunec.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libt2k.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libunpack.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libverify.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/libzip.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/logging.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/management-agent.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/management/jmxremote.access" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/management/jmxremote.password.template" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/management/management.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/management/snmp.acl.template" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/meta-index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/net.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/plugin.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/psfont.properties.ja" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/psfontj2d.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/resources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/rt.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/security/US_export_policy.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/security/blacklist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/security/blacklisted.certs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/security/cacerts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/security/java.policy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/security/java.security" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/security/local_policy.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/security/trusted.libraries" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/server/Xusage.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/server/libjsig.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/server/libjvm.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/sound.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/jre/lib/tzdb.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Home/release" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/PlugIns/Java.runtime/Contents/MacOS/libjli.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/Resources/SansumDesktopJFX.icns" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/SansumDesktopJFX.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/SansumDesktopJFX.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.fxml" afterPath="$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.fxml" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -248,11 +84,9 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SansumDesktop/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
+            <state relative-caret-position="45">
               <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -260,14 +94,14 @@
       <file leaf-file-name="Context.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SansumDesktop/Context.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="64" column="5" lean-forward="false" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+            <state relative-caret-position="94">
+              <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UpdateWindow.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UpdateWindow.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -277,52 +111,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logo2.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SansumDesktop/resources/logo2.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DisplayWindow.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="195">
               <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#878#879#0" expanded="false" />
+                <element signature="e#920#921#0" expanded="false" />
+                <element signature="e#1126#1127#0" expanded="false" />
+                <element signature="e#1171#1172#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DisplayWindow.fxml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DisplayWindow.fxml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.fxml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="31" column="30" lean-forward="false" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
-              <folding>
-                <marker date="1504675771000" expanded="true" signature="3231:3268" ph="..." />
-                <marker date="1504675771000" expanded="true" signature="3231:3283" ph="..." />
-                <marker date="1504675771000" expanded="true" signature="3236:3268" ph="..." />
-              </folding>
-            </state>
-          </provider>
           <provider editor-type-id="JavaFX-Scene-Builder">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+              <folding>
+                <marker date="1504748920000" expanded="true" signature="2855:2892" ph="..." />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="UpdateWindow.fxml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="JavaFX-Scene-Builder">
-            <state />
           </provider>
         </entry>
       </file>
@@ -369,10 +197,10 @@
         <option value="$PROJECT_DIR$/src/SansumDesktop/DataConnector.java" />
         <option value="$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml" />
         <option value="$PROJECT_DIR$/src/SansumDesktop/Context.java" />
-        <option value="$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.fxml" />
         <option value="$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.java" />
         <option value="$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.java" />
         <option value="$PROJECT_DIR$/src/SansumDesktop/Main.java" />
+        <option value="$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.fxml" />
       </list>
     </option>
   </component>
@@ -387,10 +215,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="1417" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
@@ -411,48 +238,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SansumDesktopJFX" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SansumDesktopJFX" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SansumDesktopJFX" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SansumDesktopJFX" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SansumDesktopJFX" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SansumDesktop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
@@ -496,6 +281,48 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SansumDesktopJFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SansumDesktopJFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SansumDesktopJFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SansumDesktopJFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SansumDesktopJFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SansumDesktop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -986,7 +813,8 @@
       <workItem from="1503532488888" duration="1505000" />
       <workItem from="1504412691519" duration="1126000" />
       <workItem from="1504415872903" duration="80000" />
-      <workItem from="1504671944300" duration="5044000" />
+      <workItem from="1504671944300" duration="5088000" />
+      <workItem from="1504748235479" duration="806000" />
     </task>
     <task id="LOCAL-00001" summary="Updated with backendless 4.0">
       <created>1504677120458</created>
@@ -999,27 +827,28 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39772000" />
+    <option name="totallyTimeSpent" value="40622000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="23" width="1280" height="1417" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289777" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289777" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16602613" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16590562" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36429724" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17932148" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24980143" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1075,44 +904,43 @@
         <state relative-caret-position="180">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#878#879#0" expanded="false" />
+            <element signature="e#920#921#0" expanded="false" />
+            <element signature="e#1126#1127#0" expanded="false" />
+            <element signature="e#1171#1172#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
           <folding>
-            <marker date="1504675771000" expanded="true" signature="3231:3268" ph="..." />
-            <marker date="1504675771000" expanded="true" signature="3231:3283" ph="..." />
-            <marker date="1504675771000" expanded="true" signature="3236:3268" ph="..." />
+            <marker date="1504748920000" expanded="true" signature="2855:2892" ph="..." />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1137,44 +965,43 @@
         <state relative-caret-position="285">
           <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#878#879#0" expanded="false" />
+            <element signature="e#920#921#0" expanded="false" />
+            <element signature="e#1126#1127#0" expanded="false" />
+            <element signature="e#1171#1172#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
           <folding>
-            <marker date="1504675771000" expanded="true" signature="3231:3268" ph="..." />
-            <marker date="1504675771000" expanded="true" signature="3231:3283" ph="..." />
-            <marker date="1504675771000" expanded="true" signature="3236:3268" ph="..." />
+            <marker date="1504748920000" expanded="true" signature="2855:2892" ph="..." />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1199,33 +1026,32 @@
         <state relative-caret-position="75">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#878#879#0" expanded="false" />
+            <element signature="e#920#921#0" expanded="false" />
+            <element signature="e#1126#1127#0" expanded="false" />
+            <element signature="e#1171#1172#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding>
-            <marker date="1504675771000" expanded="true" signature="3231:3268" ph="..." />
-            <marker date="1504675771000" expanded="true" signature="3231:3283" ph="..." />
-            <marker date="1504675771000" expanded="true" signature="3236:3268" ph="..." />
+            <marker date="1504748920000" expanded="true" signature="2855:2892" ph="..." />
           </folding>
         </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1238,29 +1064,27 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
           <folding>
-            <marker date="1504675771000" expanded="true" signature="3231:3268" ph="..." />
-            <marker date="1504675771000" expanded="true" signature="3231:3283" ph="..." />
-            <marker date="1504675771000" expanded="true" signature="3236:3268" ph="..." />
+            <marker date="1504748920000" expanded="true" signature="2855:2892" ph="..." />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="62" lean-forward="false" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.java">
@@ -1268,7 +1092,10 @@
         <state relative-caret-position="210">
           <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#878#879#0" expanded="false" />
+            <element signature="e#920#921#0" expanded="false" />
+            <element signature="e#1126#1127#0" expanded="false" />
+            <element signature="e#1171#1172#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1277,9 +1104,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1296,44 +1121,43 @@
         <state relative-caret-position="225">
           <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#878#879#0" expanded="false" />
+            <element signature="e#920#921#0" expanded="false" />
+            <element signature="e#1126#1127#0" expanded="false" />
+            <element signature="e#1171#1172#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
           <folding>
-            <marker date="1504675771000" expanded="true" signature="3231:3268" ph="..." />
-            <marker date="1504675771000" expanded="true" signature="3231:3283" ph="..." />
-            <marker date="1504675771000" expanded="true" signature="3236:3268" ph="..." />
+            <marker date="1504748920000" expanded="true" signature="2855:2892" ph="..." />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="62" lean-forward="false" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="18" column="53" lean-forward="false" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1342,35 +1166,36 @@
         <state relative-caret-position="135">
           <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#878#879#0" expanded="false" />
+            <element signature="e#920#921#0" expanded="false" />
+            <element signature="e#1126#1127#0" expanded="false" />
+            <element signature="e#1171#1172#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
           <folding>
-            <marker date="1504675771000" expanded="true" signature="3231:3268" ph="..." />
-            <marker date="1504675771000" expanded="true" signature="3231:3283" ph="..." />
-            <marker date="1504675771000" expanded="true" signature="3236:3268" ph="..." />
+            <marker date="1504748920000" expanded="true" signature="2855:2892" ph="..." />
           </folding>
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.java">
@@ -1385,9 +1210,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1404,44 +1227,43 @@
         <state relative-caret-position="135">
           <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#878#879#0" expanded="false" />
+            <element signature="e#920#921#0" expanded="false" />
+            <element signature="e#1126#1127#0" expanded="false" />
+            <element signature="e#1171#1172#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
           <folding>
-            <marker date="1504675771000" expanded="true" signature="3231:3268" ph="..." />
-            <marker date="1504675771000" expanded="true" signature="3231:3283" ph="..." />
-            <marker date="1504675771000" expanded="true" signature="3236:3268" ph="..." />
+            <marker date="1504748920000" expanded="true" signature="2855:2892" ph="..." />
           </folding>
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1458,9 +1280,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1475,52 +1295,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateFrame.fxml" />
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/DataConnector.java" />
-    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="64" column="5" lean-forward="false" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/resources/background.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.fxml">
+    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/resources/background.png" />
+    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="31" column="30" lean-forward="false" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        <state relative-caret-position="195">
+          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
           <folding>
-            <marker date="1504675771000" expanded="true" signature="3231:3268" ph="..." />
-            <marker date="1504675771000" expanded="true" signature="3231:3283" ph="..." />
-            <marker date="1504675771000" expanded="true" signature="3236:3268" ph="..." />
+            <element signature="e#878#879#0" expanded="false" />
+            <element signature="e#920#921#0" expanded="false" />
+            <element signature="e#1126#1127#0" expanded="false" />
+            <element signature="e#1171#1172#0" expanded="false" />
           </folding>
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.java">
+    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/Context.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="94">
+          <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1529,21 +1341,24 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <marker date="1504748920000" expanded="true" signature="2855:2892" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
