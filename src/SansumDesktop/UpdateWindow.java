@@ -5,10 +5,7 @@ import com.backendless.async.callback.AsyncCallback;
 import com.backendless.exceptions.BackendlessFault;
 import javafx.application.Platform;
 import javafx.event.ActionEvent;
-import javafx.scene.control.Alert;
-import javafx.scene.control.Label;
-import javafx.scene.control.TextArea;
-import javafx.scene.control.TextField;
+import javafx.scene.control.*;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -20,6 +17,7 @@ public class UpdateWindow {
     public TextField timeTextField;
     public TextArea messagesField;
     private final static Preferences prefs = Preferences.userNodeForPackage(Main.class);
+    public Button updateButton;
 
 
     public UpdateWindow(){
@@ -34,6 +32,7 @@ public class UpdateWindow {
     }
 
     public void updateTime(ActionEvent actionEvent) {
+        updateButton.setDisable(true);
         HashMap dataPoint = new HashMap();
         try {
             dataPoint.put("Time", Integer.parseInt(timeTextField.getText()));
@@ -45,18 +44,21 @@ public class UpdateWindow {
                     System.out.println("Update was successful");
                     timeTextField.setText("");
                     refreshTime(null);
+                    updateButton.setDisable(false);
                 }
 
                 public void handleFault(BackendlessFault fault) {
                     showAlert("Database Error", "Error Updating Time", "There was a problem updating the time in the database. Please relaunch and try again.", Alert.AlertType.ERROR);
 
                     System.out.println("Error: " + fault);
+                    updateButton.setDisable(false);
                 }
             });
         }
         catch(Exception e){
             showAlert("Invalid Input", timeTextField.getText() + " is not a valid number.", "Please input a valid integer.", Alert.AlertType.ERROR);
             timeTextField.setText("");
+            updateButton.setDisable(false);
         }
     }
 
