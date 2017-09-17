@@ -48,7 +48,7 @@ public class UpdateWindow {
                 }
 
                 public void handleFault(BackendlessFault fault) {
-                    showAlert("Database Error", "Error Updating Time", "There was a problem updating the time in the database. Please relaunch and try again.", Alert.AlertType.ERROR);
+                    showAlert("Database Error", "Error Updating Time", "There was a problem updating the time in the database. Please relaunch and try again. \n \n" + fault, Alert.AlertType.ERROR);
 
                     System.out.println("Error: " + fault);
                     updateButton.setDisable(false);
@@ -60,11 +60,36 @@ public class UpdateWindow {
             timeTextField.setText("");
             updateButton.setDisable(false);
         }
+
+        Backendless.Persistence.of( "Times" ).findFirst( new AsyncCallback<Map>(){
+            @Override
+            public void handleResponse( Map time )
+            {
+                System.out.println(time);
+                Backendless.Data.of( "Times" ).remove(time, new AsyncCallback<Long>() {
+                    @Override
+                    public void handleResponse(Long aLong) {
+                        System.out.println("Successfully deleted old time");
+                    }
+
+                    @Override
+                    public void handleFault(BackendlessFault backendlessFault) {
+                        System.out.println("Error deleting old time " + backendlessFault);
+                    }
+                });
+
+            }
+            @Override
+            public void handleFault( BackendlessFault fault )
+            {
+                System.out.println("Error finding oldest time");
+            }
+        });
     }
 
     public void refreshTime(ActionEvent actionEvent){
 
-        Backendless.Persistence.of( "Times" ).findLast( new AsyncCallback<Map>(){
+        Backendless.Persistence.of("Times").findLast( new AsyncCallback<Map>(){
             @Override
             public void handleResponse( Map result )
             {
