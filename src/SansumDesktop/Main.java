@@ -25,38 +25,6 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception{
 
-        Stage displayStage = new Stage();
-        displayRoot = FXMLLoader.load(getClass().getResource("DisplayWindow.fxml"));
-        displayStage.setTitle("Waiting Room Display");
-        displayStage.setScene(new Scene(displayRoot, 1600, 1200));
-
-        try { //tries to find external monitor
-
-            Screen externalScreen = Screen.getScreens().get(1);
-
-            Rectangle2D externalMonitorBounds = externalScreen.getVisualBounds();
-
-            displayStage.setX(externalMonitorBounds.getMinX() + 100);
-            displayStage.setY(externalMonitorBounds.getMinY() + 100);
-
-            displayStage.show();
-            displayStage.setFullScreen(true);
-
-        }
-
-        //catch throws if no monitor is detected
-        catch(IndexOutOfBoundsException e) {
-            System.out.println("No external monitor attached");
-            Alert alert = new Alert(Alert.AlertType.WARNING);
-            alert.setTitle("Error: No Monitor");
-            alert.setHeaderText("There is no display board monitor connected to this computer.");
-            alert.setContentText("The display board window will launch in windowed mode. Connect a monitor and relaunch to show the display board in fullscreen.");
-            alert.showAndWait();
-
-            displayStage.show();
-            displayStage.setResizable(true);
-        }
-
         //finally launches dashboard window
         updateRoot = FXMLLoader.load(getClass().getResource("UpdateWindow.fxml"));
         primaryStage.setTitle("Sansum UC Wait Times");

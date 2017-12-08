@@ -33,7 +33,7 @@
         <Label layoutX="98.0" layoutY="344.0" text="Display Board Messages:" />
         <Button layoutX="152.0" layoutY="495.0" mnemonicParsing="false" onAction="#updateMessages" text="Save" />
       <Separator layoutY="535.0" prefHeight="5.0" prefWidth="350.0" />
-      <Label layoutX="141.0" layoutY="540.0" text="Version 1.2" textFill="#000000b8" />
+      <Label layoutX="141.0" layoutY="540.0" text="Version 1.3" textFill="#000000b8" />
     </children>
 
 </AnchorPane>

@@ -7,7 +7,10 @@ import javafx.application.Platform;
 import javafx.event.ActionEvent;
 import javafx.scene.control.*;
 
+import java.lang.reflect.Array;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.prefs.Preferences;
 
@@ -18,15 +21,15 @@ public class UpdateWindow {
     public TextArea messagesField;
     private final static Preferences prefs = Preferences.userNodeForPackage(Main.class);
     public Button updateButton;
-
+    public String messageString;
+    public ArrayList<String> messageIDs = new ArrayList<>();
 
     public UpdateWindow(){
         setTimeLabelText("Current Time: -");
         refreshTime(null);
         Platform.runLater(
                 () -> {
-                    messagesField.setText(prefs.get("MESSAGES_STRING", ""));
-                    updateMessages(null);
+                    getMessages();
                 }
         );
     }
@@ -36,7 +39,6 @@ public class UpdateWindow {
         HashMap dataPoint = new HashMap();
         try {
             dataPoint.put("Time", Integer.parseInt(timeTextField.getText()));
-            Context.getInstance().setTime(timeTextField.getText());
 
             Backendless.Persistence.of("Times").save(dataPoint, new AsyncCallback<Map>() {
                 public void handleResponse(Map response) {
@@ -95,7 +97,6 @@ public class UpdateWindow {
             {
                 String time = result.get("Time").toString();
                 setTimeLabelText("Current Time: " + time);
-                Context.getInstance().setTime(time);
             }
             @Override
             public void handleFault( BackendlessFault fault )
@@ -105,6 +106,8 @@ public class UpdateWindow {
                 System.out.print("Error: " + fault);
             }
         });
+
+        getMessages();
 
     }
 
@@ -129,15 +132,53 @@ public class UpdateWindow {
     }
 
     public void updateMessages(ActionEvent e){
-        Context.getInstance().updateMessages(messagesField.getText());
-        String messages = "";
-        for(int x = 0; x < Context.getInstance().getMessagesLength(); x++){
-            messages += Context.getInstance().getMessageAtIndex(x);
-            messages += "\n";
+        String[] messages = messagesField.getText().split("\n");
+        messageString = messagesField.getText();
+
+        HashMap dbMessages = new HashMap();
+
+        for(int x = 0; x < messageIDs.size(); x++){
+            dbMessages.put("objectId", messageIDs.get(x));
+            Backendless.Persistence.of("Messages").remove(dbMessages);
+            dbMessages.clear();
         }
-        if(!messages.equals("")){
-            showAlert("Message Display", "The following messages will display on the wait board:", messages, Alert.AlertType.INFORMATION);
+        System.out.println("Removed all messages");
+
+
+        HashMap newMessage = new HashMap();
+
+        for(int x = 0; x < messages.length; x++){
+            newMessage.put("Message", messages[x]);
+            Backendless.Persistence.of("Messages").save(newMessage);
+            newMessage.clear();
         }
+        System.out.println("Saved New messages");
+
+
+        showAlert("Message Display", "The following messages will display on the wait board: ", messageString, Alert.AlertType.INFORMATION);
+
+    }
+
+    public void getMessages(){
+        Backendless.Persistence.of( "Messages" ).find( new AsyncCallback<List<Map>>(){
+            @Override
+            public void handleResponse(List<Map> maps) {
+                messageString = "";
+                messageIDs.clear();
+                for(int x = 0; x < maps.size(); x++){
+                    messageIDs.add(maps.get(x).get("objectId").toString());
+                    messageString += maps.get(x).get("Message") + "\n";
+                }
+                messagesField.setText(messageString);
+                System.out.println(messageIDs);
+            }
+
+            @Override
+            public void handleFault( BackendlessFault fault )
+            {
+                System.out.println("Error finding oldest time");
+            }
+        });
     }
 
 }
