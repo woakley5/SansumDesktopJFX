@@ -7,15 +7,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/SansumDesktop/Context.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.fxml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/SansumDesktopJFX.jar" afterPath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/SansumDesktopJFX.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/Java/SansumDesktopJFX.jar" afterPath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/bundles/SansumDesktopJFX.app/Contents/Java/SansumDesktopJFX.jar" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/Context.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/DisplayWindow$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/DisplayWindow$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/DisplayWindow$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/DisplayWindow$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/DisplayWindow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/DisplayWindow.fxml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/Main$1$1.class" afterPath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/Main$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/Main$1.class" afterPath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/Main$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/Main.class" afterPath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/UpdateWindow$1.class" afterPath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/UpdateWindow$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/UpdateWindow$2.class" afterPath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/UpdateWindow$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/UpdateWindow.class" afterPath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/UpdateWindow.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/SansumDesktopJFX.jnlp" afterPath="$PROJECT_DIR$/out/artifacts/SansumDesktopJFX/SansumDesktopJFX.jnlp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SansumDesktop/Main.java" afterPath="$PROJECT_DIR$/src/SansumDesktop/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml" afterPath="$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/UpdateWindow.fxml" afterPath="$PROJECT_DIR$/out/production/SansumDesktopJFX/SansumDesktop/UpdateWindow.fxml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.java" afterPath="$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.java" />
     </list>
     <ignored path="JavaFxApplication.iws" />
@@ -101,11 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UpdateWindow.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UpdateWindow.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-129">
-              <caret line="109" column="22" lean-forward="false" selection-start-line="109" selection-start-column="22" selection-end-line="109" selection-end-column="22" />
+            <state relative-caret-position="746">
+              <caret line="159" column="5" lean-forward="true" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,14 +119,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UpdateWindow.fxml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="UpdateWindow.fxml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml">
           <provider editor-type-id="JavaFX-Scene-Builder">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="62" lean-forward="false" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
+            <state relative-caret-position="480">
+              <caret line="32" column="74" lean-forward="true" selection-start-line="32" selection-start-column="74" selection-end-line="32" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -172,8 +178,8 @@
         <option value="$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.java" />
         <option value="$PROJECT_DIR$/src/SansumDesktop/DisplayWindow.fxml" />
         <option value="$PROJECT_DIR$/src/SansumDesktop/Main.java" />
-        <option value="$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml" />
         <option value="$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.java" />
+        <option value="$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml" />
       </list>
     </option>
   </component>
@@ -188,9 +194,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
+    <option name="x" value="970" />
     <option name="y" value="23" />
-    <option name="width" value="1280" />
+    <option name="width" value="1590" />
     <option name="height" value="1417" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -809,7 +815,7 @@
       <workItem from="1510706717187" duration="118000" />
       <workItem from="1512175919721" duration="12000" />
       <workItem from="1512176159575" duration="1654000" />
-      <workItem from="1512766305757" duration="1741000" />
+      <workItem from="1512766305757" duration="2156000" />
     </task>
     <task id="LOCAL-00001" summary="Updated with backendless 4.0">
       <created>1504677120458</created>
@@ -846,14 +852,21 @@
       <option name="project" value="LOCAL" />
       <updated>1509230057997</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Now working with new display window">
+      <created>1512768151733</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1512768151733</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50971000" />
+    <option name="totallyTimeSpent" value="51386000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="23" width="1280" height="1417" extended-state="0" />
+    <frame x="970" y="23" width="1590" height="1417" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -871,7 +884,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289777" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38206786" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30555555" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24980143" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -907,7 +920,8 @@
     <MESSAGE value="Update button now disables when sending update data" />
     <MESSAGE value="UpdateTime now deletes oldest time to prevent table overflow" />
     <MESSAGE value="Final 1.2 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final 1.2 commit" />
+    <MESSAGE value="Now working with new display window" />
+    <option name="LAST_COMMIT_MESSAGE" value="Now working with new display window" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1350,24 +1364,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="159" column="5" lean-forward="true" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="62" lean-forward="false" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
+        <state relative-caret-position="480">
+          <caret line="32" column="74" lean-forward="true" selection-start-line="32" selection-start-column="74" selection-end-line="32" selection-end-column="74" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SansumDesktop/UpdateWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-129">
-          <caret line="109" column="22" lean-forward="false" selection-start-line="109" selection-start-column="22" selection-end-line="109" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

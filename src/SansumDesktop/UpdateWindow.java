@@ -153,7 +153,7 @@ public class UpdateWindow {
             newMessage.clear();
         }
         System.out.println("Saved New messages");
-
+        getMessages();
 
         showAlert("Message Display", "The following messages will display on the wait board: ", messageString, Alert.AlertType.INFORMATION);
 
