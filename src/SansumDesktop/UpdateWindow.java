@@ -56,37 +56,37 @@ public class UpdateWindow {
                     updateButton.setDisable(false);
                 }
             });
+
+            Backendless.Persistence.of( "Times" ).findFirst( new AsyncCallback<Map>(){
+                @Override
+                public void handleResponse( Map time )
+                {
+                    System.out.println(time);
+                    Backendless.Data.of( "Times" ).remove(time, new AsyncCallback<Long>() {
+                        @Override
+                        public void handleResponse(Long aLong) {
+                            System.out.println("Successfully deleted old time");
+                        }
+
+                        @Override
+                        public void handleFault(BackendlessFault backendlessFault) {
+                            System.out.println("Error deleting old time " + backendlessFault);
+                        }
+                    });
+
+                }
+                @Override
+                public void handleFault( BackendlessFault fault )
+                {
+                    System.out.println("Error finding oldest time");
+                }
+            });
         }
         catch(Exception e){
             showAlert("Invalid Input", timeTextField.getText() + " is not a valid number.", "Please input a valid integer.", Alert.AlertType.ERROR);
             timeTextField.setText("");
             updateButton.setDisable(false);
         }
-
-        Backendless.Persistence.of( "Times" ).findFirst( new AsyncCallback<Map>(){
-            @Override
-            public void handleResponse( Map time )
-            {
-                System.out.println(time);
-                Backendless.Data.of( "Times" ).remove(time, new AsyncCallback<Long>() {
-                    @Override
-                    public void handleResponse(Long aLong) {
-                        System.out.println("Successfully deleted old time");
-                    }
-
-                    @Override
-                    public void handleFault(BackendlessFault backendlessFault) {
-                        System.out.println("Error deleting old time " + backendlessFault);
-                    }
-                });
-
-            }
-            @Override
-            public void handleFault( BackendlessFault fault )
-            {
-                System.out.println("Error finding oldest time");
-            }
-        });
     }
 
     public void refreshTime(ActionEvent actionEvent){

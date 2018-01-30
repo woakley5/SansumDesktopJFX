@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SansumDesktopJFX:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SansumDesktopJFX_jar</output-path>
+    <root id="archive" name="SansumDesktopJFX.jar">
+      <element id="module-output" name="SansumDesktopJFX" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/backendless/backendless/4.0.3/backendless-4.0.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
